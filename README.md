@@ -1,2 +1,2 @@
-# Vihadigital-com
+# Vihadigitalcom
 My second repository on GitHub
